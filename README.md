@@ -4,3 +4,5 @@
 
 # Black Jack Game
 #### A simple Black Jack game created using python
+
+![image](https://github.com/YJ-928/Py_Beginner-Black-Jack-Game/assets/68319416/b43c60de-9235-479c-a702-33a9bbe2ee61)
